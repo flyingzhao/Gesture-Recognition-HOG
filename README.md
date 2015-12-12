@@ -3,7 +3,7 @@
 visual studio 2010</br>
 <p><strong>库</strong></p>
 OpenCV 2.4.10</br>
-</br>
+##实验结果
 <p>使用600张正样本和1200张负样本训练SVM分类器。</p>
 样本图片<br/>
 ![image](https://github.com/flyingzhao/Gesture-Recognition-HOG/blob/master/hog-visualization/example.jpg)<br>
