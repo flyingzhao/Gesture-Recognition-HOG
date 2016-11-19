@@ -1,14 +1,15 @@
-#ÑµÁ·ÊÖÊÆµÄHOGÄ£ĞÍ
-<p><strong>Æ½Ì¨</strong></p>
+#è®­ç»ƒæ‰‹åŠ¿çš„HOGæ¨¡å‹
+[English Version](https://github.com/flyingzhao/Gesture-Recognition-HOG/blob/master/English.md)
+<p><strong>å¹³å°</strong></p>
 visual studio 2010</br>
-<p><strong>¿â</strong></p>
+<p><strong>åº“</strong></p>
 OpenCV 2.4.10</br>
 vlfeat 0.9.20</br>
-##ÊµÑé½á¹û
-<p>Ê¹ÓÃ600ÕÅÕıÑù±¾ºÍ1200ÕÅ¸ºÑù±¾ÑµÁ·SVM·ÖÀàÆ÷¡£</p>
-Ñù±¾Í¼Æ¬<br/>
+##å®éªŒç»“æœ
+<p>ä½¿ç”¨600å¼ æ­£æ ·æœ¬å’Œ1200å¼ è´Ÿæ ·æœ¬è®­ç»ƒSVMåˆ†ç±»å™¨ã€‚</p>
+æ ·æœ¬å›¾ç‰‡<br/>
 ![image](https://github.com/flyingzhao/Gesture-Recognition-HOG/blob/master/hog-visualization/example.jpg)<br>
-HOG¿ÉÊÓ»¯<br/>
+HOGå¯è§†åŒ–<br/>
 ![image](https://github.com/flyingzhao/Gesture-Recognition-HOG/blob/master/hog-visualization/hogvisual.jpg)<br>
-²âÊÔ½á¹û<br/>
+æµ‹è¯•ç»“æœ<br/>
 ![image](https://github.com/flyingzhao/Gesture-Recognition-HOG/blob/master/hog-visualization/result.jpg)<br>
