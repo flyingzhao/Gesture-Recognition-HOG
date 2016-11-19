@@ -1,6 +1,5 @@
 #Training HOG model for gesture detection
 
---------------
 
 ##Platform
 
